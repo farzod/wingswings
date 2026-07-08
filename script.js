@@ -1,14 +1,14 @@
 const animations = [
   "Wings_1.json",
-  "Wings_2.json",
   "Wings_3.json",
   "Wings_4.json",
   "Wings_5.json",
-  "Wings_6.json",
   "Wings_7.json",
   "Wings_8.json",
-  "Wings_9.json",
   "Wings_10.json",
+  "Wings_6.json",
+  "Wings_2.json",
+  "Wings_9.json",
 ];
 
 const carousel = document.querySelector("#carousel");
